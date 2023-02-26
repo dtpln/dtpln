@@ -1,6 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Call of Duty Cinematic Mods.
 - 🌱 I’m currently learning ... C++ and .menu files.
-![Stats](https://github-readme-stats.vercel.app/api?username=4GlVE&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=4GlVE&show_icons=true&theme=github_dark)
 <!--
 **4GlVE/4GlVE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
