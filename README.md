@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Call of Duty Cinematic Mods.
-- 🌱 I’m currently learning ... C++ and .menu files.
+- 🔭 I’m currently working on Call of Duty mods.
+- 🌱 I’m currently learning .gsc and .menu.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=4GlVE&show_icons=true&theme=github_dark)
 <!--
